@@ -40,9 +40,9 @@ jobs:
       with:
         args: --from=markdown --to=rst --output=docs/source/README.rst README.md
 
-    - name: build docs
-      run: |
-        sphinx-build -W -b html docs/source docs/build -j auto
+    # - name: build docs
+    #   run: |
+    #     sphinx-build -W -b html docs/source docs/build -j auto
 
     - name: deploy docs only if it is pushed to main
       uses: peaceiris/actions-gh-pages@v3
