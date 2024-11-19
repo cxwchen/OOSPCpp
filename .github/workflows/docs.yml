@@ -35,14 +35,14 @@ jobs:
             
           done
 
-    - name: convert md to rst # md reference is not recognized with md_include
-      uses: docker://pandoc/core:latest
-      with:
-        args: --from=markdown --to=rst --output=docs/source/README.rst README.md
+    # - name: convert md to rst # md reference is not recognized with md_include
+    #   uses: docker://pandoc/core:latest
+    #   with:
+    #     args: --from=markdown --to=rst --output=docs/source/README.rst README.md
 
-    # - name: build docs
-    #   run: |
-    #     sphinx-build -W -b html docs/source docs/build -j auto
+    - name: build docs
+      run: |
+        sphinx-build -W -b html docs/source docs/build -j auto
 
     - name: deploy docs only if it is pushed to main
       uses: peaceiris/actions-gh-pages@v3
