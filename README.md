@@ -56,7 +56,11 @@ https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhtt
 [pages-lecture6]: https://mmoelle1.github.io/OospCpp/_static/lecture6.slides.html
 [pages-lecture7]: https://mmoelle1.github.io/OospCpp/_static/lecture7.slides.html
 
+<<<<<<< HEAD
 [badge-pdf-lecture]: https://img.shields.io/badge/printable-pdf-blue 
+=======
+[badge-pdf-lecture]: https://img.shields.io/badge/printable-pdf-blue
+>>>>>>> parent of 8185990 (Fix README.md)
 
 [pdf-lecture1]: https://mmoelle1.github.io/OospCpp/_static/lecture1.slides.pdf
 [pdf-lecture2]: https://mmoelle1.github.io/OospCpp/_static/lecture2.slides.pdf
@@ -65,6 +69,10 @@ https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhtt
 [pdf-lecture5]: https://mmoelle1.github.io/OospCpp/_static/lecture5.slides.pdf
 [pdf-lecture6]: https://mmoelle1.github.io/OospCpp/_static/lecture6.slides.pdf
 [pdf-lecture7]: https://mmoelle1.github.io/OospCpp/_static/lecture7.slides.pdf
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 8185990 (Fix README.md)
 
 &copy; Copyright Matthias Möller.
 
