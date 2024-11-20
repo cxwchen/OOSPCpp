@@ -36,28 +36,28 @@ We strongly recomment using the notebooks and slides in the provided binder envi
 
 [badge-pages-lecture]: https://img.shields.io/badge/static-lecture-579ACA.svg?style=flat-square
 
-[binder-jupyterlab-lecture1]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture1.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture2]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture2.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture3]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture3.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture4]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture4.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture5]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture5.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture6]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture6.ipynb%26branch%3D2023
-[binder-jupyterlab-lecture7]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture7.ipynb%26branch%3D2023
+[binder-jupyterlab-lecture1]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture1.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture2]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture2.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture3]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture3.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture4]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture4.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture5]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture5.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture6]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture6.ipynb%26branch%3D2024-testing
+[binder-jupyterlab-lecture7]: https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dlab%252Ftree%252FOospCpp%252Fnotebooks%252Flecture7.ipynb%26branch%3D2024-testing
 
 [binder-jupyternb-lecture1]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture1.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture1.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture2]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture2.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture2.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture3]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture3.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture3.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture4]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture4.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture4.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture5]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture5.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture5.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture6]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture6.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture6.ipynb%26branch%3D2024-testing
 [binder-jupyternb-lecture7]:
-https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture7.ipynb%26branch%3D2023
+https://mybinder.org/v2/gh/mmoelle1/OospCpp/binder?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmmoelle1%252FOospCpp%26urlpath%3Dtree%252FOospCpp%252Fnotebooks%252Flecture7.ipynb%26branch%3D2024-testing
 
 [pages-lecture1]: https://mmoelle1.github.io/OospCpp/_static/lecture1.slides.html
 [pages-lecture2]: https://mmoelle1.github.io/OospCpp/_static/lecture2.slides.html
